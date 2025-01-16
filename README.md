@@ -1,8 +1,7 @@
-+-- sub-directory
-|   +-- README.md    (title: Suby the Sub)
-|   +-- pg1.md    (title: Suby the Second)
-|   +-- pg2.md    (title: Suby the Third)
-+-- README.md        (title: Home)
+---
+layout: default
+title: Home
+---
 
 # Introduction to Arduino
 
