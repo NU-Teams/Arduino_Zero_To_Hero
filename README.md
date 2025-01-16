@@ -1,6 +1,6 @@
 # Introduction to Arduino
 
-![Intro](vid/Advanced-CAD II_Design-Principles.mp4)
+
 
 This module will introduce you to the basics of Arduino-based MCUs. Arduino is a powerful but beginner-friendly platform for building electronic projects. It is open-source and focussed on easy integration of hardware and software.
 
