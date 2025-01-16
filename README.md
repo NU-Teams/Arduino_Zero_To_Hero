@@ -6,7 +6,7 @@
 
 <!-- [![Watch the video](https://img.youtube.com/vi/YvCygVZYsTM/0.jpg)](https://www.youtube.com/watch?v=YvCygVZYsTM) -->
 
-<video width="640" height="480" controls>
+<video width="980" height="720" controls>
   <source src="vid/Advanced-CAD II_Design-Principles.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
