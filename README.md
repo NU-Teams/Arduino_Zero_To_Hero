@@ -3,10 +3,10 @@ title: README
 ---
 
 +-- sub-directory
-|   +-- index.md    (title: Suby the Sub)
-|   +-- page2.md    (title: Suby the Second)
-|   +-- three.md    (title: Suby the Third)
-+-- index.md        (title: Home)
+|   +-- README.md    (title: Suby the Sub)
+|   +-- pg1.md    (title: Suby the Second)
+|   +-- pg2.md    (title: Suby the Third)
++-- README.md        (title: Home)
 
 # Introduction to Arduino
 
