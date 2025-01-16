@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page2
+---
+
 # Introduction to Arduino
 
 ![Intro](vid/Advanced-CAD II_Design-Principles.mp4)
