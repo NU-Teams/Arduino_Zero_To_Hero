@@ -1,6 +1,21 @@
++-- sub-directory
+|   +-- index.md    (title: Suby the Sub)
+|   +-- page2.md    (title: Suby the Second)
+|   +-- three.md    (title: Suby the Third)
++-- index.md        (title: Home)
+
 # Introduction to Arduino
 
-![Intro](vid/Advanced-CAD II_Design-Principles.mp4)
+
+
+<!-- https://github.com/user-attachments/assets/43b4e650-a094-42e8-9edb-2dd360985848 -->
+
+<!-- [![Watch the video](https://img.youtube.com/vi/YvCygVZYsTM/0.jpg)](https://www.youtube.com/watch?v=YvCygVZYsTM) -->
+
+<video width="980" height="720" controls>
+  <source src="vid/Advanced-CAD II_Design-Principles.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 This module will introduce you to the basics of Arduino-based MCUs. Arduino is a powerful but beginner-friendly platform for building electronic projects. It is open-source and focussed on easy integration of hardware and software.
 
