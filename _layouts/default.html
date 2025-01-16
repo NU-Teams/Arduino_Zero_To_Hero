@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <div class="sidebar">
+        <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/pg1.html' | relative_url }}">Page 1</a></li>
+            <li><a href="{{ '/pg2.html' | relative_url }}">Page 2</a></li>
+        </ul>
+    </div>
+    <div class="content">
+        {{ content }}
+    </div>
+</body>
+</html>
