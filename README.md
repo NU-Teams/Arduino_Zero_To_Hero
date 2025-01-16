@@ -2,12 +2,6 @@
 
 # Introduction to Arduino
 
-
-
-<!-- https://github.com/user-attachments/assets/43b4e650-a094-42e8-9edb-2dd360985848 -->
-
-<!-- [![Watch the video](https://img.youtube.com/vi/YvCygVZYsTM/0.jpg)](https://www.youtube.com/watch?v=YvCygVZYsTM) -->
-
 <video width="980" height="720" controls>
   <source src="vid/Advanced-CAD II_Design-Principles.mp4" type="video/mp4">
   Your browser does not support the video tag.
