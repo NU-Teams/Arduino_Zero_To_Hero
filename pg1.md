@@ -1,7 +1,4 @@
----
-layout: default
-title: Page1
----
+
 
 # Introduction to Arduino
 
