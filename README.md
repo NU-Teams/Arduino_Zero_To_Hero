@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/43b4e650-a094-42e8-9edb-2dd360985848
 
-
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
 
 This module will introduce you to the basics of Arduino-based MCUs. Arduino is a powerful but beginner-friendly platform for building electronic projects. It is open-source and focussed on easy integration of hardware and software.
 
