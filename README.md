@@ -1,3 +1,7 @@
+---
+title: README
+---
+
 +-- sub-directory
 |   +-- index.md    (title: Suby the Sub)
 |   +-- page2.md    (title: Suby the Second)
