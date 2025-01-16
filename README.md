@@ -1,7 +1,3 @@
----
-title: README
----
-
 +-- sub-directory
 |   +-- README.md    (title: Suby the Sub)
 |   +-- pg1.md    (title: Suby the Second)
