@@ -2,8 +2,8 @@ site_name: TRAINING MODULES
 site_url: https://nu-teams.github.io/Arduino_Zero_To_Hero/
 theme:
   name: material
-  logo: assets/img/NUTeams_simplified_white_on_trans.png
-  favicon: assets/img/NUTeams_favicon.png
+  logo: assets/NUTeams_simplified_white_on_trans.png
+  favicon: assets/NUTeams_favicon.png
   palette:
     # Dark Mode
     - scheme: slate

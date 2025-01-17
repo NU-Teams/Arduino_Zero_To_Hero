@@ -1,7 +1,7 @@
 # :printer: 3D Printing Zero-to-Hero
 
 <video width="980" height="720" controls>
-  <source src="assets/vid/3D_Printing_Zero-to-hero/Welcome to 3D Printing Zero-to-Hero!.mp4" type="video/mp4">
+  <source src="assets/3d_printing_zero_to_hero/Welcome to 3D Printing Zero-to-Hero!.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
