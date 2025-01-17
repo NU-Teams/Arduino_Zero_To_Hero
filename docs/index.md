@@ -10,6 +10,15 @@ Modules will typically consist of:
 + Physical/hands-on exercises/problems to complete between videos, and/or
 + A module 'capstone' project.
 
+
+- Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
+  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
+  lacinia sed. Aenean in finibus diam.
+
+    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+    * Nam vulputate tincidunt fringilla.
+    * Nullam dignissim ultrices urna non auctor.
+
 Some modules will be required 'reading' for ENGG2200 Induction Projects. Others will simply be helpful resources to support you in your efforts.
 
 ## Microcredentials
