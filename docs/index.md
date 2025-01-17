@@ -5,9 +5,13 @@ NU Teams has constructed bespoke training modules to aid you in your projects.
 These modules will cover information outside/above/in addition to core courses, with a focus on  'hands-on' topics.
 
 Modules will typically consist of:
+
 - ~2-hours of video content, segmented into small (~5 minute) chunks.
+
 - Accompanying written resource pages for each video with links to bonus content.
+
 - Physical/hands-on exercises/problems to complete between videos, and/or
+
 - A module 'capstone' project.
 
 
