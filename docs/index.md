@@ -1,23 +1,23 @@
 # :house: Welcome!
 
+NU Teams has constructed bespoke training modules to aid you in your projects.
 
+These modules will cover information outside/above/in addition to core courses, with a focus on  'hands-on' topics.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Modules will typically consist of:
 
-## Commands
+~2-hours of video content, segmented into small (~5 minute) chunks.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Accompanying written resource pages for each video with links to bonus content.
 
-## Project layout
+Physical/hands-on exercises/problems to complete between videos, and/or
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+A module 'capstone' project.
 
+Some modules will be required 'reading' for ENGG2200 Induction Projects. Others will simply be helpful resources to support you in your efforts.
+
+## Microcredentials
+When you complete a NU Teams training module, contact Dylan Cuskelly or Malcolm Sidney for assessment of your module capstone project. Once assessed, you will be certified, recognised, and awarded a completion certificate and badge to add to your team shirt.
 
 <video width="980" height="720" controls>
   <source src="assets/vid/Advanced-CAD II_Design-Principles.mp4" type="video/mp4">
