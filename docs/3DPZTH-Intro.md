@@ -1,7 +1,9 @@
 # :printer: 3D Printing Zero-to-Hero
 
-<video width="980" height="720" controls>
-  <source src="assets/3d_printing_zero_to_hero/Advanced-CAD II_Design-Principles.mp4" type="video/mp4">
+<!-- <video width="980" height="720" controls> -->
+
+<video controls>
+  <source src="assets/Advanced-CAD II_Design-Principles.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
