@@ -44,3 +44,8 @@ markdown_extensions:
   #Content Tabs
   - pymdownx.tabbed:
       alternate_style: true
+
+  #Lists
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true

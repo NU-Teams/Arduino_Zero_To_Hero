@@ -37,7 +37,7 @@ In this short course, you'll learn about:
 
 ## Acknowledgements
 
-!!! note ":books: Resource:"
+!!! warning ":books: Resource:"
 
     This module was not created in a vacuum. Information was drawn, summarised, and refactored from a variety of sources - all of which are great review/summary/extension resources for the interested reader: 
 
