@@ -14,23 +14,11 @@ Modules will typically consist of:
 
 - A module 'capstone' project.
 
-
-- Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
-  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
-  lacinia sed. Aenean in finibus diam.
-
-    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    * Nam vulputate tincidunt fringilla.
-    * Nullam dignissim ultrices urna non auctor.
-
 Some modules will be required 'reading' for ENGG2200 Induction Projects. Others will simply be helpful resources to support you in your efforts.
 
 ## Microcredentials
 When you complete a NU Teams training module, contact Dylan Cuskelly or Malcolm Sidney for assessment of your module capstone project. Once assessed, you will be certified, recognised, and awarded a completion certificate and badge to add to your team shirt.
 
-<video width="980" height="720" controls>
-  <source src="assets/vid/Advanced-CAD II_Design-Principles.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ![Anatomy of an Arduino](assets/img/anatomy-of-an-arduino.png)
