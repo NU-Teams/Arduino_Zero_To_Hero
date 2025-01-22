@@ -23,7 +23,7 @@ theme:
 
 nav:
   - Home: index.md
-  - 3D Printing Zero To Hero intro: 3DPZTH-Intro.md
+  - 3D Printing Zero To Hero intro: 3DPZTH-Intro.html
 
 
 markdown_extensions:
