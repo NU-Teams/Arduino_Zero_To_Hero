@@ -3,7 +3,7 @@
 <!-- <video width="980" height="720" controls> -->
 
 <video controls>
-  <source src="docs/assets/3d_printing_zero_to_hero/Welcome to 3D Printing Zero-to-Hero!.mp4" type="video/mp4">
+  <source src="assets/3d_printing_zero_to_hero/Welcome to 3D Printing Zero-to-Hero!.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -53,4 +53,4 @@ In this short course, you'll learn about:
 
 
     
-![Anatomy of an Arduino](docs/assets/img/arduino_zero_to_hero/anatomy-of-an-arduino.png)
+![Anatomy of an Arduino](assets/arduino_zero_to_hero/anatomy-of-an-arduino.png)
