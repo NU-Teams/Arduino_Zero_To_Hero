@@ -21,6 +21,11 @@ theme:
       primary: blue
       accent: deep orange
 
+nav:
+  - Home: index.md
+  - 3D Printing Zero To Hero intro: 3DPZTH-Intro.md
+
+
 markdown_extensions:
   #Emojis & Symbols extension
   - attr_list

@@ -54,7 +54,7 @@ In this short course, you'll learn about:
 </video>
 
 
-<video src="https://nu-teams.github.io/Arduino_Zero_To_Hero/docs/assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" controls></video>
+<video src="assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" controls></video>
 
 
 
