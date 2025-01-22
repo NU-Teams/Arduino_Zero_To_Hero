@@ -55,5 +55,16 @@ In this short course, you'll learn about:
 
 
 <video src="assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" controls></video>
-    
+
+```{r}
+video_path  <- "assets/3d_printing_zero_to_hero/"
+video_files <- list.files(video_path,
+                         pattern = "\\.mp4$",
+                         recursive = TRUE,
+                         all.files = FALSE,
+                         full.names = TRUE)
+```
+
+<iframe width="720" height="480" src="`r video_files[1]`" align="middle" frameborder="0" allowfullscreen></iframe>
+
 ![Anatomy of an Arduino](assets/arduino_zero_to_hero/anatomy-of-an-arduino.png)
