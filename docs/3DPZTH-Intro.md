@@ -47,19 +47,8 @@ In this short course, you'll learn about:
 
     - Angus Deveson's YouTube channel Maker's Muse also hosts many fantastic videos.
 
-<video controls>
-<source src="../assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
-<video controls src="../assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" title="Title"></video>
+<video controls src="../assets/3D PRINTING ZERO TO HERO/Welcome to 3D Printing Zero-to-Hero!.mp4" title="Welcome"></video>
 
 
 ![Anatomy of an Arduino](assets/arduino_zero_to_hero/anatomy-of-an-arduino.png)
-
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="/path/to/poster.png">
-    <source src="assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" type="video/mp4">
-  </video>
-</figure>
