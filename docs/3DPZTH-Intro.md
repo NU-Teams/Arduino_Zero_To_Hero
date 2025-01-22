@@ -1,11 +1,7 @@
 # :printer: 3D Printing Zero-to-Hero
 
-<!-- <video width="980" height="720" controls> -->
 
-<video controls>
-  <source src="assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 3D Printing is a revolutionary manufacturing technology that enables the production of complex, custom, and precise objects from digital 3D models. This manufacturing process is incredibly versatile and accessible, and is revolutionising industries ranging from healthcare to aerospace. 
 
@@ -51,6 +47,11 @@ In this short course, you'll learn about:
 
     - Angus Deveson's YouTube channel Maker's Muse also hosts many fantastic videos.
 
+
+<video controls>
+  <source src="assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
     
 ![Anatomy of an Arduino](assets/arduino_zero_to_hero/anatomy-of-an-arduino.png)
