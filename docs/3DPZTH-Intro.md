@@ -3,7 +3,7 @@
 <!-- <video width="980" height="720" controls> -->
 
 <video controls>
-  <source src="assets/3d_printing_zero_to_hero/Welcome to 3D Printing Zero-to-Hero!.mp4" type="video/mp4">
+  <source src="assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
