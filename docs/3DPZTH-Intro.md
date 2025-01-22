@@ -53,8 +53,9 @@ In this short course, you'll learn about:
 Your browser does not support the video tag.
 </video>
 
-
+<div class="aside">
 <video src="assets/3d_printing_zero_to_hero/welcome-to-3d-printing-zero-to-hero.mp4" controls></video>
+</div>
 
 
 
