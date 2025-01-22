@@ -20,5 +20,3 @@ Some modules will be required 'reading' for ENGG2200 Induction Projects. Others 
 When you complete a NU Teams training module, contact Dylan Cuskelly or Malcolm Sidney for assessment of your module capstone project. Once assessed, you will be certified, recognised, and awarded a completion certificate and badge to add to your team shirt.
 
 
-
-![Anatomy of an Arduino](assets/img/anatomy-of-an-arduino.png)
