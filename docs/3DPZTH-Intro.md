@@ -38,7 +38,7 @@ In this short course, you'll learn about:
 
     This module was not created in a vacuum. Information was drawn, summarised, and refactored from a variety of sources - all of which are great review/summary/extension resources for the interested reader: 
 
-    - The All3DP website which has countless guides and articles about 3D printing,
+    - The ![All3DP](https://all3dp.com/) website which has countless guides and articles about 3D printing,
 
     - The official Prusa website and YouTube channel,
 
